@@ -36,7 +36,7 @@ function syncPins() {
 var wallpaperRegistry = {
     "Default": {id: "Default", name: "Snake Skeleton", url: "Videos/default.mp4", locked: false},
     "green": {id: "green", name: "Green Anime", url: "Videos/green.mp4", locked: false},
-    "33A56": {id: "hunt_trait", name: "Hunt Showdown", url: "Videos/33A56.mp4", locked: true},
+    "33A56": {id: "hunt_trait", name: "Hunt Showdown", url: "Videos/45E33.mp4", locked: true},
     "45E33": {id: "45E33", name: "45E33", url: "Videos/45E33.mp4", locked: false},
     "55Cine": {id: "55Cine", name: "Cine 55", url: "Videos/55Cine.PNG", locked: false},
     "99Med": {id: "99Med", name: "99 Med", url: "Videos/99Med.mp4", locked: false},
